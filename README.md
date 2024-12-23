@@ -4,10 +4,9 @@ Python based game, Bingo (multiplayer)
 #   "Aggies do not lie, cheat, or steal, or tolerate those who do."
 #   "I have not given or received any unauthorized aid on this assignment."
 #
-# Names:        Matthew Bomer
-#               Chidera Obiefule
+# Name:         Chidera Obiefule
 # Section:      559
-# Assignment:   Lab Topic 11 Passport checker part A
+# Assignment:   Lab Topic 11 Fun Game
 # Date:         11/20/2022
 #
 import random
